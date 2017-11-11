@@ -1,0 +1,3039 @@
+Reading CSV file...
+Parsed 76456 sentences.
+Found 58101 unique words tokens.
+Using vocabulary size 100.
+The least frequent word in our vocabulary is 'been' and appeared 2126 times.
+SGD Step time: 348.000050 milliseconds
+Start time is  2017-08-31T02:30:15.828520
+2017-08-31 02:30:16: Loss after num_examples_seen=0 epoch=0: 4.600170
+2017-08-31 02:31:57: Loss after num_examples_seen=100 epoch=1: 3.034327
+2017-08-31 02:33:36: Loss after num_examples_seen=200 epoch=2: 3.007388
+2017-08-31 02:35:16: Loss after num_examples_seen=300 epoch=3: 2.964295
+2017-08-31 02:36:54: Loss after num_examples_seen=400 epoch=4: 2.936914
+
+2017-08-31T02:38:31.570520 (500)
+Loss: 2.663662
+& do would 'm
+, & of
+out and i do be
+, in would
+people out he
+& to but ,
+and and been there `` would to n't
+to . more
+but than 'm and
+out it . what
+like get to
+& be ,
+and 's n't
+some have who
+it good in
+was or is you and the
+& , to the
+so in , i and
+'' would who like
+. on )
+i he for them & some has .
+and & for
+n't . .
+up gt your
+people 'm you
+. there the
+then have i
+would . as
+when think ,
+'s think so
+. . up to
+good at does the
+other is be
+that , & who
+, . that
+with has !
+this for only
+about of get
+a . .
+has would in
+all and n't
+this there time me think
+how this ;
+it could any
+and good on
+that they them like
+is and what think no
+other because and my
+them & who any
+is when and had
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 02:38:41: Loss after num_examples_seen=500 epoch=5: 2.911702
+2017-08-31 02:40:20: Loss after num_examples_seen=600 epoch=6: 2.885646
+2017-08-31 02:41:58: Loss after num_examples_seen=700 epoch=7: 2.858089
+2017-08-31 02:43:37: Loss after num_examples_seen=800 epoch=8: 2.826997
+2017-08-31 02:45:17: Loss after num_examples_seen=900 epoch=9: 2.788148
+
+2017-08-31T02:46:54.783520 (1000)
+Loss: 2.540430
+i that out
+like but ! was
+that it to
+i it has like
+i what .
+that . i
+do do has to not
+it can and
+i it to
+if he is has in
+i and ,
+that been what other only
+and do than
+& . are but
+'' , on it of
+i has you
+i do ?
+i there other
+and do than to
+this what n't i
+time or this
+i does you would for
+this then i
+and to 'm
+it one been with
+i gt that
+be and 's people .
+there get even has
+no what they
+even have be
+'m and one to
+? there them ;
+at what .
+& , they ) you one ,
+then what up i
+i this . .
+really people get
+good is 're people
+& . as ,
+& out would with it
+that , the
+& did like there to (
+even that ( who to
+& he 's i
+when know any
+other then to
+( like .
+there me one in
+i this and
+because to it
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 02:47:04: Loss after num_examples_seen=0 epoch=0: 2.738979
+2017-08-31 02:48:43: Loss after num_examples_seen=100 epoch=1: 2.684257
+2017-08-31 02:50:22: Loss after num_examples_seen=200 epoch=2: 2.627759
+2017-08-31 02:52:02: Loss after num_examples_seen=300 epoch=3: 2.587387
+2017-08-31 02:53:41: Loss after num_examples_seen=400 epoch=4: 2.559775
+
+2017-08-31T02:55:19.281520 (500)
+Loss: 2.351252
+at of ( them .
+not people .
+& up .
+we do it .
+& 's other 're .
+one he .
+i them .
+& all ?
+like like .
+i and .
+at gt ( them all make .
+& , make then and
+i there like .
+i do ?
+i could .
+as that .
+you what .
+if it .
+one you them all .
+i , do .
+than at .
+you for it .
+i it .
+'' ? .
+at ; '' .
+what when .
+i this .
+you it '' have
+& just i i and .
+i and 'm & all can
+it gt .
+you but this .
+it ? and
+have would ( ?
+'m & all .
+i you who .
+them 's one ?
+we and that .
+of other .
+even gt ?
+you , not but it .
+it ( .
+there gt ; ! ) it .
+good i what like have one .
+do it .
+do get that .
+just it ?
+it all .
+at in i .
+would them .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 02:55:29: Loss after num_examples_seen=500 epoch=5: 2.534717
+2017-08-31 02:57:08: Loss after num_examples_seen=600 epoch=6: 2.510912
+2017-08-31 02:58:47: Loss after num_examples_seen=700 epoch=7: 2.492226
+2017-08-31 03:00:27: Loss after num_examples_seen=800 epoch=8: 2.476521
+2017-08-31 03:02:05: Loss after num_examples_seen=900 epoch=9: 2.462999
+
+2017-08-31T03:03:42.907520 (1000)
+Loss: 2.259666
+they it .
+& n't ! , has
+i it .
+the . them
+because what '' .
+there he up
+i i it .
+i people .
+i is people .
+i good me .
+and it .
+one do i
+i & .
+i it .
+& gt ; that ?
+even , would ?
+what good .
+it . think
+& gt ; does .
+you other ?
+& n't does .
+i i .
+as is that and has and .
+& n't this and .
+even do .
+not as this ?
+i do .
+this other .
+: 'm have that .
+them it he .
+i people .
+i you .
+& gt ; this .
+that also .
+& gt gt ; even .
+in them .
+i 'm would do has me .
+is it .
+i do .
+i it .
+i then .
+i it but you not .
+i you ?
+no 's it .
+that it .
+what do .
+for you that this .
+this 's do .
+& gt make than this .
+i , do ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 03:03:57: Loss after num_examples_seen=0 epoch=0: 2.450422
+2017-08-31 03:05:36: Loss after num_examples_seen=100 epoch=1: 2.436839
+2017-08-31 03:07:15: Loss after num_examples_seen=200 epoch=2: 2.421351
+2017-08-31 03:08:55: Loss after num_examples_seen=300 epoch=3: 2.403496
+2017-08-31 03:10:34: Loss after num_examples_seen=400 epoch=4: 2.385584
+
+2017-08-31T03:12:11.943520 (500)
+Loss: 2.195824
+would think .
+them i you out the who you .
+you it ) .
+that there .
+one what you ?
+& gt ; have .
+i do .
+even then .
+but people ?
+in do .
+even in i .
+really do that ! that
+that do n't this that like !
+we do .
+& gt ; who then .
+i you ?
+are that them when .
+then there .
+i it at could
+i it it .
+one ? <MASK/>
+& gt ; you .
+in & .
+& gt ;
+think is what ?
+them people out : would it it is
+in do people !
+to there .
+is i people .
+i . then
+they . they
+& gt ; .
+, do ) .
+i even '' .
+you people he !
+i that it .
+other time then .
+would people ?
+even i them have they
+it it , has
+& gt ; you .
+think do .
+do n't and it ?
+it . them
+i of do .
+i it .
+they could !
+so it .
+and really this for .
+this it .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 03:12:32: Loss after num_examples_seen=500 epoch=5: 2.367458
+2017-08-31 03:14:12: Loss after num_examples_seen=600 epoch=6: 2.348936
+2017-08-31 03:15:51: Loss after num_examples_seen=700 epoch=7: 2.329401
+2017-08-31 03:17:31: Loss after num_examples_seen=800 epoch=8: 2.313248
+2017-08-31 03:19:10: Loss after num_examples_seen=900 epoch=9: 2.301001
+
+2017-08-31T03:20:48.532520 (1000)
+Loss: 2.152917
+it good .
+we do other did .
+and i that do .
+as on ?
+this it .
+i is no there 's !
+there he !
+you do in me .
+then you you .
+no it me .
+i would it .
+this '' .
+is 'm do .
+& gt ; & gt ; that
+out people ?
+& gt ; you you and .
+be ? (
+what what that
+what people all when
+good and have i this , get and
+we what like like on
+are . this
+& gt ; even
+have , would '' to have time .
+have i is .
+then ) ?
+people even get who there when !
+what do gt ; like you on .
+& gt ; you ?
+i do for people even
+? you some ?
+it for '' ?
+it it .
+that i .
+it , but what you
+it it .
+& gt ; ?
+they do n't do as just and it .
+this what what
+just do that .
+i do would .
+have that did .
+has ? people
+you 'm do n't you , it have .
+there them as
+at in this '' ?
+would it at all as 're & 'm good !
+i there it .
+this do .
+i do 's !
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 03:21:10: Loss after num_examples_seen=0 epoch=0: 2.288116
+2017-08-31 03:22:50: Loss after num_examples_seen=100 epoch=1: 2.269151
+2017-08-31 03:24:30: Loss after num_examples_seen=200 epoch=2: 2.250023
+2017-08-31 03:26:09: Loss after num_examples_seen=300 epoch=3: 2.237317
+2017-08-31 03:27:47: Loss after num_examples_seen=400 epoch=4: 2.202381
+
+2017-08-31T03:29:25.111520 (500)
+Loss: 2.020349
+& gt ; .
+it what ?
+this you ) .
+& gt ; ?
+them '' .
+'' has but
+i & because .
+i think even ?
+and even then ?
+i do ?
+& gt ; have .
+would you have what .
+i it .
+? '' people
+& gt ; ) that
+& make get they '' ?
+in do .
+they & is of
+at gt ; you with .
+that do make !
+then & n't have has
+no , in you .
+it he , i it .
+all has that you !
+good is is you ?
+i it .
+this but think ?
+even has has when
+for . also
+there it in !
+get do n't then .
+& 's & gt ; have what .
+i do when them !
+if gt n't it .
+what what ?
+i it time .
+what who who
+in then it ?
+you you '' .
+i then like you .
+what could not 'm do n't .
+? some then than !
+up ! if
+i up ! to
+has think do n't do .
+this , other
+i it .
+gt at ; you !
+i do ( this , even good !
+do with you people ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 03:29:43: Loss after num_examples_seen=500 epoch=5: 2.181433
+2017-08-31 03:31:22: Loss after num_examples_seen=600 epoch=6: 2.169911
+2017-08-31 03:33:02: Loss after num_examples_seen=700 epoch=7: 2.160801
+2017-08-31 03:34:42: Loss after num_examples_seen=800 epoch=8: 2.145007
+2017-08-31 03:36:21: Loss after num_examples_seen=900 epoch=9: 2.110836
+
+2017-08-31T03:37:59.037520 (1000)
+Loss: 1.936291
+as think it it .
+& gt ; it .
+i 'm you
+i do and they them how
+you even ?
+has but would has
+like he & make all gt will have would they but you ?
+& ! had & gt ; on
+i people has for you to .
+for people it .
+& people ; you ?
+what as all ?
+& gt ; '' he gt .
+i do ?
+i do this but you when
+out do .
+do has has
+& gt ; you what they
+at to people
+i even do .
+? does has !
+but on other
+& gt ; you what
+it , !
+'m 'm do n't it .
+& gt ; you that ?
+. n't some you good .
+& gt ; and on
+i do this ! `` good if ?
+then he time good more than has ?
+but when what
+know what out
+they do like that ! can on
+does if them did ?
+'' like out this what some `` have in when
+more would do 's !
+( of do .
+& gt ; have they
+but would it time ? ''
+? would what
+in even it you when
+& gt ; this who '' .
+i . when
+is would out this n't .
+. there he
+know it .
+what they ?
+. '' what
+. when when
+get do for even !
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 03:38:12: Loss after num_examples_seen=0 epoch=0: 2.095568
+2017-08-31 03:39:52: Loss after num_examples_seen=100 epoch=1: 2.091205
+2017-08-31 03:41:32: Loss after num_examples_seen=200 epoch=2: 2.054849
+2017-08-31 03:43:12: Loss after num_examples_seen=300 epoch=3: 2.038507
+2017-08-31 03:44:51: Loss after num_examples_seen=400 epoch=4: 2.015535
+
+2017-08-31T03:46:29.997520 (500)
+Loss: 1.811886
+& gt ; what you
+it them .
+i it like .
+& gt ; 'm
+i them this '' ?
+n't do that ? they
+then then ... out
+& gt ; but if
+it , .
+i it ?
+all i ?
+know you .
+i & n't have that
+& gt ; that !
+it that like people do , ?
+what do n't .
+i do who you !
+people it be people ?
+them in you
+i if do n't do have you .
+it what !
+and it is that even
+what them n't people ?
+do me like on
+what they do even
+& gt ; in even
+it , you ?
+? so what
+i there than them .
+i as do & & get .
+i people you .
+& gt ; you what
+like 'm do people they you it .
+have . what
+& gt ; ?
+what i people ?
+& gt ; ) who
+& n't at n't . would when
+in & time
+gt all !
+have you .
+as good .
+other do like '' would !
+& gt ; .
+. is ?
+i 'm do .
+i do to does has that would what up
+is 'm not do .
+it and ?
+n't ) you ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 03:46:45: Loss after num_examples_seen=500 epoch=5: 2.018359
+Setting learning rate to 0.000500
+2017-08-31 03:48:25: Loss after num_examples_seen=600 epoch=6: 1.957390
+2017-08-31 03:50:05: Loss after num_examples_seen=700 epoch=7: 1.951809
+2017-08-31 03:51:44: Loss after num_examples_seen=800 epoch=8: 1.928930
+2017-08-31 03:53:24: Loss after num_examples_seen=900 epoch=9: 1.914673
+
+2017-08-31T03:55:02.477520 (1000)
+Loss: 1.677492
+i 'm i is in
+i do just .
+? some ) what
+'s do that !
+i . when
+i ? have
+what : up did what
+& gt ; .
+& gt ; in like ?
+does ? do
+them that ?
+in do n't !
+, them ?
+. '' you
+i do to !
+i me do is !
+i 'm in as
+i do good as on would ?
+& gt ; on
+& gt ; you you they what
+other even do
+what would when he
+. they ?
+i gt even !
+. '' !
+& gt ; that even
+the when do & than could when
+it . and
+really do is !
+i you who
+& gt ; you you you
+& gt ; than ?
+like , has they
+and do think .
+even what that
+) what !
+there , make what when
+it that ?
+it that ?
+i . if
+& gt ; .
+what there them like & gt ; .
+it . !
+? are did
+good that ?
+i 'm but would
+do he !
+at what ?
+it , people that what they ''
+it what they
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 03:55:14: Loss after num_examples_seen=0 epoch=0: 1.877859
+2017-08-31 03:56:53: Loss after num_examples_seen=100 epoch=1: 1.927993
+Setting learning rate to 0.000500
+2017-08-31 03:58:32: Loss after num_examples_seen=200 epoch=2: 1.849988
+2017-08-31 04:00:12: Loss after num_examples_seen=300 epoch=3: 1.839883
+2017-08-31 04:01:51: Loss after num_examples_seen=400 epoch=4: 1.819632
+
+2017-08-31T04:03:28.345520 (500)
+Loss: 1.608773
+& gt ; . but
+& gt ; you are ?
+& also people did your what you really this .
+& gt ; out that
+i people like do .
+i do is ) ?
+i do is like them n't you ? n't them has
+? , what
+because do what ?
+i do like has he
+it have . ''
+to do is do of good .
+i it it .
+do on have as
+& gt ; one what ?
+it that what ''
+and them like !
+? '' what
+& gt ; this you what they
+good that ?
+i do to them has
+it what ?
+it , has
+it , they people
+. would would
+i do people ) !
+do who ?
+i in do n't then
+but then ?
+it is ?
+would ? when
+on do what ?
+time . you
+! you '' what they
+in good this .
+people ! you
+& gt ; ?
+& gt ; do n't have ? do
+& gt ; would you
+it would ?
+then has you ?
+up that has you ?
+they '' one
+& gt ; ) on
+& gt ; . good
+and on !
+it is .
+i 'm they on
+people they do
+they then ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 04:03:42: Loss after num_examples_seen=500 epoch=5: 1.802872
+2017-08-31 04:05:22: Loss after num_examples_seen=600 epoch=6: 1.792446
+2017-08-31 04:07:02: Loss after num_examples_seen=700 epoch=7: 1.785597
+2017-08-31 04:08:41: Loss after num_examples_seen=800 epoch=8: 1.753297
+2017-08-31 04:10:20: Loss after num_examples_seen=900 epoch=9: 1.766888
+Setting learning rate to 0.000250
+
+2017-08-31T04:11:58.515520 (1000)
+Loss: 1.520963
+& gt ; this 's ?
+would it is there .
+i do i then
+you i '' is .
+it is !
+i this like you .
+& gt ; you what
+that do even
+& gt ; you what
+& gt ; you it there like in
+& gt ; in you
+& gt ; in
+and would do n't some one ?
+your 'm them that it , are ?
+it even to them on
+so would you do it .
+are you as .
+then he .
+in do n't ?
+with 'm like they
+, like it .
+is has '' i .
+at gt has ) ? did
+) but on
+in ? did
+and & good ?
+has think even
+& gt ; it `` make . <MASK/>
+i like who do .
+i 'm they as
+i . then
+& gt ; you people
+'re people ? out
+no and it .
+it that .
+& gt ; but so '' do .
+& gt ; but even what
+& gt ; have they
+then he !
+of ! do has
+but it .
+what would would when
+i as what you
+& gt ; !
+for it them .
+i do i there get that what
+it for ? they
+i good that out but you
+and would you do you ?
+be 'm you ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 04:12:13: Loss after num_examples_seen=0 epoch=0: 1.707826
+2017-08-31 04:13:53: Loss after num_examples_seen=100 epoch=1: 1.726011
+Setting learning rate to 0.000500
+2017-08-31 04:15:34: Loss after num_examples_seen=200 epoch=2: 1.700625
+2017-08-31 04:17:14: Loss after num_examples_seen=300 epoch=3: 1.692867
+2017-08-31 04:18:55: Loss after num_examples_seen=400 epoch=4: 1.688352
+
+2017-08-31T04:20:33.826520 (500)
+Loss: 1.439327
+it 's it it .
+i do this when out
+it what ?
+& gt ; on have
+is do n't them than ?
+! are ?
+this that they ? has
+this that you
+and 'm ? what
+& gt ; you ''
+out you when
+they & n't make have but do to .
+i 'm you ?
+& gt ; you '' out
+than it is .
+& when ; on
+& gt ; at when .
+& gt ; & good they
+`` 'm you if
+to at as just ?
+they ! what you even
+there 's do .
+i 'm you then .
+i 'm people do you .
+what i in .
+what has !
+i you do n't people time
+as do make ?
+. how you
+other do other them than
+that in do .
+& gt ; you .
+they it it it as ?
+what so ( even
+i do and they would it .
+it is people & they !
+& gt ; you
+& gt ; on what
+i , what ?
+is really it really do to get in time ''
+i do what will you who
+in would it i ?
+there 's . have
+there on like ?
+then & gt '' !
+it that what
+there at they them he who ) what
+& gt ; you out
+that do them !
+? this on
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 04:20:49: Loss after num_examples_seen=500 epoch=5: 1.662955
+2017-08-31 04:22:28: Loss after num_examples_seen=600 epoch=6: 1.662653
+2017-08-31 04:24:08: Loss after num_examples_seen=700 epoch=7: 1.641625
+2017-08-31 04:25:47: Loss after num_examples_seen=800 epoch=8: 1.646225
+Setting learning rate to 0.000250
+2017-08-31 04:27:26: Loss after num_examples_seen=900 epoch=9: 1.561888
+
+2017-08-31T04:29:04.626520 (1000)
+Loss: 1.350139
+it that what
+& gt ; but are
+i 'm like ?
+but good it you what they what
+i i you have .
+then on they
+i 'm just do .
+'' there people have ?
+'' , would do .
+& gt ; ?
+what i do it ! !
+has but ?
+i 'm you what .
+no ! time
+& gt ; you people
+this would i ?
+& gt ; of ?
+good that ?
+& gt ; it .
+& gt ; ! would
+think do to ? as
+we : for .
+it , and
+do ! ''
+! has would when
+i people what
+& gt ; '' what what they
+i people it to have has and
+what one ?
+does is have do n't have do be on ''
+& gt ; this ?
+as it this ?
+as do there then did was at n't people would
+this that you
+then you they has what
+& gt ; you are ?
+'' . all
+we 'm really .
+get ! like
+i it that .
+people he ?
+& gt ; '' what ?
+i 'm people ?
+and think do .
+: in there would people
+& gt ; you .
+i ? you on
+would they really you ? there has they
+& gt ; '' does all even
+& gt ; but '' they has than
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 04:29:17: Loss after num_examples_seen=0 epoch=0: 1.558130
+2017-08-31 04:30:56: Loss after num_examples_seen=100 epoch=1: 1.597802
+Setting learning rate to 0.000500
+2017-08-31 04:32:36: Loss after num_examples_seen=200 epoch=2: 1.592466
+2017-08-31 04:34:16: Loss after num_examples_seen=300 epoch=3: 1.553762
+2017-08-31 04:35:56: Loss after num_examples_seen=400 epoch=4: 1.535660
+
+2017-08-31T04:37:33.656520 (500)
+Loss: 1.301086
+& gt ; in
+then what when and
+them they ''
+i that do !
+i 'm you you .
+i 'm like do .
+i 'm when
+that . ?
+& gt ; what other
+what you ?
+& gt ; have of
+i them ?
+'' you on
+this that this then what
+'' , and they
+'' , like gt them ?
+& gt ; but would what
+what i like do it .
+& gt ; in
+as you do n't people do n't even ?
+& gt ; you .
+& gt ; . ?
+it what what
+they ! what ''
+. '' ?
+them of ?
+i has when .
+& gt ; you .
+and people know you ?
+there this ?
+& gt ; out )
+& gt ; to when have it to ?
+like . when
+i think do .
+would . what
+& gt ; in like what ?
+we in ?
+i that you do not !
+i do get you out
+what have we !
+& gt ; on
+does gt .
+they people ?
+it has would they
+that even do
+this that ?
+& gt ; in some .
+i 'm it .
+it that !
+what does time them on
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 04:37:52: Loss after num_examples_seen=500 epoch=5: 1.520162
+2017-08-31 04:39:32: Loss after num_examples_seen=600 epoch=6: 1.519393
+2017-08-31 04:41:12: Loss after num_examples_seen=700 epoch=7: 1.502194
+2017-08-31 04:42:52: Loss after num_examples_seen=800 epoch=8: 1.477754
+2017-08-31 04:44:32: Loss after num_examples_seen=900 epoch=9: 1.439747
+
+2017-08-31T04:46:11.064520 (1000)
+Loss: 1.241650
+& gt ; like .
+they but what what
+me is is is it .
+i up would ?
+as would you
+think do them is ?
+i do make ?
+been people would you
+i all '' .
+& gt ; you you
+, in do of what
+& gt ;
+and you do more have ?
+i people it when then they
+and would do n't on but would '' it .
+& gt ;
+& gt ; you
+what you n't even then
+there 's in do people ?
+when good you them .
+it that ?
+& gt ; you one you ? you
+that . also he ?
+i 'm do gt what on in
+& gt ; ?
+he i do do than what would you ?
+this that have : they what there to you it for you ?
+& gt ; .
+is has ?
+it that ?
+so do n't do
+what get would ?
+they all do ) when
+it that ?
+i 'm like really think .
+this it .
+& gt ; , that
+that ? people
+as & n't !
+it that ?
+& gt ; ?
+them that ?
+what you good people ?
+& gt ; to then they .
+we 'm do n't .
+& gt ; you are
+what . of
+& gt ; ?
+'' you , make do .
+would did we do more for you time
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 04:46:28: Loss after num_examples_seen=0 epoch=0: 1.501867
+2017-08-31 04:48:08: Loss after num_examples_seen=100 epoch=1: 1.446556
+2017-08-31 04:49:48: Loss after num_examples_seen=200 epoch=2: 1.499271
+Setting learning rate to 0.000500
+2017-08-31 04:51:27: Loss after num_examples_seen=300 epoch=3: 1.381767
+2017-08-31 04:53:07: Loss after num_examples_seen=400 epoch=4: 1.364197
+
+2017-08-31T04:54:45.300520 (500)
+Loss: 1.135899
+, people also what do all .
+what have ?
+how who do me them `` about know there .
+when has n't what you when
+then what ?
+& gt ; you out
+! '' !
+i 'm what to
+& gt ; as
+this is n't you do to or gt gt on !
+then you ?
+& gt ; you what what
+'m it at know ?
+at gt get you .
+are . what
+would ! !
+& gt ; for .
+? good there to me it .
+& gt ; what has
+good you you ! but
+this that time
+there 's do & gt of !
+this what ?
+& gt ; you .
+what it are when them .
+about what ?
+& gt ; ? ''
+this what to they
+then you what
+is on ?
+i 'm would ?
+i would 'm
+them that ?
+? there even
+not do .
+what out !
+people but get you ?
+. you you
+he them not & n't what when
+what . about
+at n't do he .
+& gt ; '' !
+me , would ?
+what good other ?
+have do even would !
+it have .
+i has this to that and you ?
+this what you
+i do n't . ''
+what you all when !
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 04:55:01: Loss after num_examples_seen=500 epoch=5: 1.323340
+2017-08-31 04:56:40: Loss after num_examples_seen=600 epoch=6: 1.338287
+Setting learning rate to 0.000250
+2017-08-31 04:58:21: Loss after num_examples_seen=700 epoch=7: 1.267923
+2017-08-31 05:00:01: Loss after num_examples_seen=800 epoch=8: 1.256999
+2017-08-31 05:01:40: Loss after num_examples_seen=900 epoch=9: 1.237448
+
+2017-08-31T05:03:18.946520 (1000)
+Loss: 1.059680
+& gt ; you .
+would people !
+them of ?
+? you time
+and . then
+they it it .
+'' has at people ?
+my you like you .
+& gt ; '' ?
+them what ?
+it 's but what than
+it n't are what
+then they that they ? ?
+& gt ; you on
+them that would it .
+there there .
+what good like .
+. '' what what
+and would do them .
+? when what
+& gt ; has they
+i 'm they really .
+'m it when what
+then he has as
+and . ; what
+what who '' what what
+this what ?
+people you out
+& gt ; for you
+i 'm but it .
+one ! ''
+like , what
+? even ?
+do n't do even
+we do n't . to
+like i it at he & then !
+and know n't .
+. they what
+this . ''
+is . ?
+that do n't them of
+good that ?
+and than would when ''
+& gt ; and 're . ''
+& gt ; out time
+what you what been you ?
+what i do people ?
+would would what do .
+on . on
+& gt ; '' there .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 05:03:33: Loss after num_examples_seen=0 epoch=0: 1.232111
+2017-08-31 05:05:13: Loss after num_examples_seen=100 epoch=1: 1.319099
+Setting learning rate to 0.000500
+2017-08-31 05:06:52: Loss after num_examples_seen=200 epoch=2: 1.236856
+2017-08-31 05:08:32: Loss after num_examples_seen=300 epoch=3: 1.247416
+Setting learning rate to 0.000250
+2017-08-31 05:10:11: Loss after num_examples_seen=400 epoch=4: 1.162777
+
+2017-08-31T05:11:50.574520 (500)
+Loss: 1.016539
+& gt ; that people
+what have they has . ?
+for & n't think '' you do them .
+. you what
+& gt ; in some it .
+what you to
+this is ? they
+& gt ; you 're like do n't people have
+& gt ; !
+& gt ; you what has
+& gt ; .
+what you more ! but they people have
+it that would ?
+make people do on would they
+them you .
+and . ( !
+. they ?
+& gt ; in
+& gt ; and when
+& gt ; have 're
+but '' you what
+do who i on
+i 'm would you .
+what this n't but what
+what it !
+i ( in do .
+them is ?
+but it it them ?
+? would what .
+they this it what .
+it that have ?
+then you would what
+this and '' even
+. be you ?
+no . so
+this it .
+'' . !
+he . time
+& gt ;
+i this it know of it & n't ? ''
+been 'm like if
+. ) there when this he ?
+& gt ; me there would ! have
+that what you do .
+& ; !
+& gt ; in . all
+this , there even ?
+this that them ?
+? but what ''
+but ! when when
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 05:12:05: Loss after num_examples_seen=500 epoch=5: 1.158973
+2017-08-31 05:13:45: Loss after num_examples_seen=600 epoch=6: 1.150277
+2017-08-31 05:15:24: Loss after num_examples_seen=700 epoch=7: 1.133450
+2017-08-31 05:17:03: Loss after num_examples_seen=800 epoch=8: 1.128659
+2017-08-31 05:18:43: Loss after num_examples_seen=900 epoch=9: 1.119967
+
+2017-08-31T05:20:21.560520 (1000)
+Loss: 0.953834
+up it is .
+what you do gt .
+but it not ? they
+& gt ; you what '' they what
+then out !
+i would '' there .
+it , i do .
+i ! would what
+i 'm in you .
+there he ?
+and would do think people ?
+we has to what '' on
+it his 'm on
+would it that ?
+would i do that ?
+does even do
+would but you
+& gt ; ?
+? would ?
+you just like do like would !
+what ; !
+it that ?
+and it that what ?
+you that do .
+then on would
+& gt ; you
+i 'm you do .
+that when do n't do and
+to people do .
+when . been you ?
+and that ?
+and i would people .
+did you what they then
+are has it just them as
+i would like .
+that what do them .
+one are , '' then .
+& gt ; and on
+and '' that there , people
+& gt ; you what
+& gt ; ) on
+& gt ; you even
+? '' ?
+do 's just . what
+in it it .
+? '' has what
+what like n't like do n't people would
+that you would would no to !
+this he what did !
+that . are ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 05:20:41: Loss after num_examples_seen=0 epoch=0: 1.111399
+2017-08-31 05:22:20: Loss after num_examples_seen=100 epoch=1: 1.187938
+Setting learning rate to 0.000500
+2017-08-31 05:24:01: Loss after num_examples_seen=200 epoch=2: 1.123353
+2017-08-31 05:25:40: Loss after num_examples_seen=300 epoch=3: 1.091075
+2017-08-31 05:27:20: Loss after num_examples_seen=400 epoch=4: 1.077761
+
+2017-08-31T05:28:58.460520 (500)
+Loss: 0.915921
+& gt ; you what .
+i would it there .
+and but ?
+and what do how ?
+like do no them even !
+i people you .
+that . people
+this , just ? what
+would it gt who what when they
+i ? n't do to people
+i 'm in to ?
+as you when people
+what ? 're ?
+& gt ; you we in do all ?
+them of ?
+i on on
+i in you .
+& gt ; all what
+that are do at , that
+'m do n't . ''
+this for it has what .
+& gt ; but .
+no . ''
+what . (
+i he they & n't get that he ?
+& gt ; has
+& gt ; for you ''
+this is n't even
+i 'm no to .
+& gt ; what has
+& gt ; but than
+them and ?
+it you ?
+i 'm and do of it .
+& gt ;
+this that ?
+it that ?
+as it `` but like
+it this .
+& gt ; in you
+it that ?
+as then ? !
+& gt ; you what ) they
+, it he at all ?
+it what when
+this they you ?
+them and ?
+what out !
+i that then .
+that . ''
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 05:29:14: Loss after num_examples_seen=500 epoch=5: 1.079295
+Setting learning rate to 0.000250
+2017-08-31 05:30:53: Loss after num_examples_seen=600 epoch=6: 1.027298
+2017-08-31 05:32:32: Loss after num_examples_seen=700 epoch=7: 1.020355
+2017-08-31 05:34:12: Loss after num_examples_seen=800 epoch=8: 1.008272
+2017-08-31 05:35:52: Loss after num_examples_seen=900 epoch=9: 1.005678
+
+2017-08-31T05:37:31.598520 (1000)
+Loss: 0.864004
+& gt ; ? when
+? just ?
+we it it it .
+does gt has .
+& gt ; to .
+to would when ?
+i what out .
+i , to have on
+been do i them
+it `` people they has
+. '' they
+if do n't do when
+i 'm like are of .
+. when ?
+& gt ; to .
+. 're you ?
+it it .
+& gt ; ! ?
+i 'm is to ?
+they it like what ?
+& gt ; you people
+good is , they have to
+we 'm do really them .
+& gt ; what when
+& gt ; you what
+& gt ; you people
+& gt ; you what
+& gt ; you people
+what you who !
+& gt ; on some you them they !
+what it n't '' and has
+'' that good this it .
+, ! there so have this n't me what really they
+. me what
+what good ) !
+if it do them ?
+really . ''
+they ? time
+them ? time
+i people do n't have ? what
+people i ? do .
+, would do n't .
+& gt ; !
+you . has
+& gt ; who 're what you do ; when ''
+there it .
+would how on ?
+& gt ; you people ?
+this that what
+would you than ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 05:37:47: Loss after num_examples_seen=0 epoch=0: 0.994969
+2017-08-31 05:39:27: Loss after num_examples_seen=100 epoch=1: 1.053337
+Setting learning rate to 0.000500
+2017-08-31 05:41:07: Loss after num_examples_seen=200 epoch=2: 1.001366
+2017-08-31 05:42:47: Loss after num_examples_seen=300 epoch=3: 0.981147
+2017-08-31 05:44:28: Loss after num_examples_seen=400 epoch=4: 0.967655
+
+2017-08-31T05:46:06.939520 (500)
+Loss: 0.812735
+i this like .
+. been have ?
+there 's . ''
+they it them .
+what good and ?
+& gt ; all what ?
+there in really time do .
+other has in
+& gt ; .
+) it them ?
+and it so that ?
+is . !
+& gt ; : get you you what
+this that what
+& gt ; you 're you would do n't . would
+them is , have all them .
+& gt ; but . been
+. you they
+would out !
+it , you .
+? they you
+what i would do to out
+so it it .
+this . we
+& gt ; '' what you
+and . what what
+it even has ?
+& gt ; is that what
+it that ?
+& gt ; i them out ?
+it 's on you what
+what you like ; like ?
+that . are
+what i you did .
+so have would do in on
+i them , you ?
+get would but you ?
+he on !
+but it it .
+is . really
+i would but you ?
+what i .
+know has like & gt ; some what ?
+at he , !
+you you what do .
+what you ?
+it that what
+they even do when
+'' has what it .
+& gt ; you what
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 05:46:22: Loss after num_examples_seen=500 epoch=5: 0.948673
+2017-08-31 05:48:02: Loss after num_examples_seen=600 epoch=6: 0.941537
+2017-08-31 05:49:42: Loss after num_examples_seen=700 epoch=7: 0.933669
+2017-08-31 05:51:21: Loss after num_examples_seen=800 epoch=8: 0.924357
+2017-08-31 05:53:01: Loss after num_examples_seen=900 epoch=9: 0.903141
+
+2017-08-31T05:54:39.235520 (1000)
+Loss: 0.751058
+) was what do .
+time is you ?
+that what do are ?
+and . have
+would 'm who do to .
+& gt ; in they
+what i would do to be ? we ?
+that . do
+them has ?
+then ( ! been
+them was it .
+that . when
+think ! do would when
+what i would do of ?
+, & n't 'm what up ''
+& gt ; ?
+them is you !
+i even do .
+& gt ; you what
+& gt ; ) 're
+? you good it .
+the in would like ?
+for do n't .
+we has do would as ?
+this me you them when
+this time ?
+do even would when you
+i would but do .
+have i would do to be on when ?
+them you you & gt ; you what
+. '' ?
+& gt ; but when
+& gt ; you 're but ? 's
+i would 'm do n't .
+& gt ; you you
+this that ?
+i in like ?
+who do n't .
+them is would have
+then he one have
+i would , do what ?
+make & n't but me does
+'m & n't you on
+it at .
+time you you do to ?
+. 're what
+& gt ; you even
+& gt ; ) 're you ?
+that has what so what there .
+it are ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 05:54:59: Loss after num_examples_seen=0 epoch=0: 0.895932
+2017-08-31 05:56:39: Loss after num_examples_seen=100 epoch=1: 1.032216
+Setting learning rate to 0.000500
+2017-08-31 05:58:19: Loss after num_examples_seen=200 epoch=2: 0.887442
+2017-08-31 06:00:00: Loss after num_examples_seen=300 epoch=3: 0.865461
+2017-08-31 06:01:39: Loss after num_examples_seen=400 epoch=4: 0.848439
+
+2017-08-31T06:03:18.042520 (500)
+Loss: 0.736810
+like that do them ?
+because . it .
+i people is to when you
+& gt ; you what
+i & n't also all time ?
+i ) out .
+they people what
+and but what do then of them it , that
+& gt ; you what
+& gt ; out on
+i 'm who do all .
+that out if do this , you out
+in out would you ?
+that . then
+this at what ? been
+& gt ; you some , and they
+'' you what all what
+would i do get think ''
+i people ! i
+& gt ; to are would what they ?
+get even we you ?
+my 'm ! they
+will 'm like have ?
+& gt ; ?
+i . '' has
+would it is .
+in who do n't do .
+it it .
+& gt ; you what
+& gt ; you what have
+i think do to like they
+it 's people do n't have . you what
+& gt ; '' what
+'' what out
+i people !
+what ! ?
+& gt ; has what ?
+then he !
+) `` has do or ?
+it it .
+& gt ; is that ?
+then about did ? ''
+and people good , on
+so it it would out would would ?
+would we what to .
+& gt ; to . we
+it it .
+in would do n't .
+i in they do .
+was . and
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 06:03:39: Loss after num_examples_seen=500 epoch=5: 0.841754
+2017-08-31 06:05:18: Loss after num_examples_seen=600 epoch=6: 0.832035
+2017-08-31 06:06:58: Loss after num_examples_seen=700 epoch=7: 0.808736
+2017-08-31 06:08:37: Loss after num_examples_seen=800 epoch=8: 0.827527
+Setting learning rate to 0.000250
+2017-08-31 06:10:18: Loss after num_examples_seen=900 epoch=9: 0.787886
+
+2017-08-31T06:11:57.250520 (1000)
+Loss: 0.678250
+then your what as
+and it '' ?
+that do !
+i people you you ?
+i of as do .
+been would out .
+& gt ; you what
+them that what did
+some of it it .
+how ) , what they what
+as for but do .
+it 's people ? ? they
+& gt ; has some .
+what . all
+that has it it it .
+& gt ; you some .
+it 's what ? you what
+what would n't do n't do .
+and ? just them ?
+have all in this be .
+that . ?
+on do n't & n't when but
+& gt ; at what ?
+& gt ; of out
+i even do .
+at know would them '' what them has ?
+really . ''
+& gt ; you people
+i ) like people .
+as you do n't have some .
+and people has what
+what i but do it .
+what i would do n't .
+what this also .
+it that like did .
+this that ?
+i even like when ''
+them up ?
+'' on '' it .
+it it .
+& gt ; you what
+& gt ; what they
+then has ?
+it that ?
+it is ?
+that what do n't there it .
+i would you it , ?
+i you they do .
+& gt ; you what
+& gt ; you 're you . the when ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 06:12:17: Loss after num_examples_seen=0 epoch=0: 0.778482
+2017-08-31 06:13:57: Loss after num_examples_seen=100 epoch=1: 0.879545
+Setting learning rate to 0.000500
+2017-08-31 06:15:37: Loss after num_examples_seen=200 epoch=2: 0.774257
+2017-08-31 06:17:16: Loss after num_examples_seen=300 epoch=3: 0.767185
+2017-08-31 06:18:56: Loss after num_examples_seen=400 epoch=4: 0.747512
+
+2017-08-31T06:20:35.289520 (500)
+Loss: 0.655010
+& gt ; as he has
+that . when what
+even . for
+& gt ; to out have
+would in they
+i people !
+i . like
+them ! you
+i people like you ?
+in it it .
+than people would what ?
+with , you
+that . so
+like , do n't at than ?
+i even do .
+& gt ; you 're .
+at he ?
+it it .
+& gt ; ?
+even it ?
+in & n't have there did ?
+this is n't `` who they
+& gt ; you 're who do n't .
+i people like when what
+what you ?
+& gt ; '' what
+is . i
+it 're it them ?
+when them an .
+& gt ; you what
+i would they do .
+'' of there : it people this
+& gt ; that what '' ?
+& gt ; you 're you '' do have ?
+what he n't
+? they what
+& gt ; ! 're
+when good ?
+get 'm but do .
+me it people !
+i would like .
+as it !
+& gt ; you 're you ? what
+and you what do all ?
+but it it .
+like on ?
+i do this .
+what ) they
+gt he ?
+& gt ; you what
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 06:20:55: Loss after num_examples_seen=500 epoch=5: 0.758310
+Setting learning rate to 0.000250
+2017-08-31 06:22:36: Loss after num_examples_seen=600 epoch=6: 0.709717
+2017-08-31 06:24:16: Loss after num_examples_seen=700 epoch=7: 0.705442
+2017-08-31 06:25:56: Loss after num_examples_seen=800 epoch=8: 0.700606
+2017-08-31 06:27:35: Loss after num_examples_seen=900 epoch=9: 0.693406
+
+2017-08-31T06:29:13.980520 (1000)
+Loss: 0.586348
+this that what
+& gt ; but and
+of are what people i have ?
+it are they some it .
+. you would
+my in !
+& gt or you .
+would be would no to .
+them good all .
+like than ? be
+but it it .
+would would on when
+& gt ; you what you
+& gt ; is .
+what what been !
+we do n't have they
+it that like ? they what
+& gt ; you has
+for they do to ?
+as but when when
+i people there & ; : when
+& gt ; !
+we do n't have this them ?
+when do n't .
+would do n't have ? have
+but there it .
+then he has !
+what so do he ?
+& gt ; ) 're you on
+i even have you ?
+no , you do .
+then : on
+& gt ; to people they
+& gt ; as 're '' ?
+what you ?
+there do .
+that . do when
+this , and they
+it it .
+there it .
+this that ?
+like . they
+it in they ? to
+you you ?
+i . have they
+? time ?
+? you than
+? we .
+we like this at .
+at because get that with he make
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 06:29:31: Loss after num_examples_seen=0 epoch=0: 0.685890
+2017-08-31 06:31:10: Loss after num_examples_seen=100 epoch=1: 0.773079
+Setting learning rate to 0.000500
+2017-08-31 06:32:50: Loss after num_examples_seen=200 epoch=2: 0.693405
+2017-08-31 06:34:30: Loss after num_examples_seen=300 epoch=3: 0.681401
+2017-08-31 06:36:10: Loss after num_examples_seen=400 epoch=4: 0.671066
+
+2017-08-31T06:37:48.435520 (500)
+Loss: 0.556909
+no is but have i what ?
+& gt ; you what
+i would they do .
+than do n't people ? but
+i people what .
+then has ?
+it 's people people you ? ?
+really , but do .
+what you ?
+is , ?
+this he ?
+and do n't .
+& gt ; on i
+one , n't even do .
+i did like you ?
+and you who do .
+then : ?
+& gt ;
+you . do ?
+i 'm you ?
+what but have when ?
+& gt ; you what
+i people they do .
+what some at is one and
+it is but '' i do n't does them ?
+it 's but but you ?
+this it has they
+has but so do & all ?
+as would would do to .
+i 'm and do to ?
+and it what ?
+i , but do .
+& gt ; for than
+then ) has !
+& gt ; to some time
+& gt ; ?
+at he !
+& gt ; you people
+& gt ; . we
+they it at all ?
+& gt ; but .
+this it you even
+it it .
+& gt ; !
+then was .
+. but what
+i do n't do to .
+it that has they
+i up they do .
+& gt ; on '' it .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 06:38:09: Loss after num_examples_seen=500 epoch=5: 0.657497
+2017-08-31 06:39:50: Loss after num_examples_seen=600 epoch=6: 0.643926
+2017-08-31 06:41:31: Loss after num_examples_seen=700 epoch=7: 0.644560
+Setting learning rate to 0.000250
+2017-08-31 06:43:10: Loss after num_examples_seen=800 epoch=8: 0.611027
+2017-08-31 06:44:50: Loss after num_examples_seen=900 epoch=9: 0.603824
+
+2017-08-31T06:46:28.696520 (1000)
+Loss: 0.514852
+how . been would
+in would would do to your in good at .
+it 's people on you ?
+what . make
+of what even
+it it .
+& gt ; for you it , in
+& gt ;
+i do n't people they
+& gt ; .
+people . to
+than . do
+what i would do n't .
+& gt ; you what
+& gt ; '' them & is ?
+i . and
+and i would have to
+. get you ?
+and but on you
+i has like .
+& gt ; you what
+really , but do .
+does there in have when ?
+& gt ; that .
+would really you to . i
+is , '' to .
+& gt ; but of ?
+what : time know ?
+just know they do .
+in it it .
+at more me no you , and do 's .
+this even ?
+& gt ; you up all has
+who do n't .
+& gt ; you do but gt n't he would
+i people like have what .
+on good does .
+it it .
+in do n't .
+i would but do .
+but it it .
+i think '' is when
+& gt ; you people
+this 's do n't ? but
+& gt ; as what
+. been you !
+there 's what as have
+& gt ; you what
+it it .
+me , would do !
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 06:46:50: Loss after num_examples_seen=0 epoch=0: 0.601129
+2017-08-31 06:48:30: Loss after num_examples_seen=100 epoch=1: 0.704578
+Setting learning rate to 0.000500
+2017-08-31 06:50:10: Loss after num_examples_seen=200 epoch=2: 0.611924
+2017-08-31 06:51:49: Loss after num_examples_seen=300 epoch=3: 0.597337
+2017-08-31 06:53:29: Loss after num_examples_seen=400 epoch=4: 0.586407
+
+2017-08-31T06:55:08.419520 (500)
+Loss: 0.484739
+would when ?
+& gt ; you out
+& gt ; you what
+& gt ; you what
+& gt ; in you
+& gt ; you what you
+in this it it .
+and . me ?
+and do n't .
+, you do n't .
+they good it .
+this with people when when
+there , that
+i ? it some ?
+in you even good it .
+how 'm but do .
+is . ''
+what i would do 's .
+i people you .
+on would ?
+& gt ; you are ?
+then he has !
+for people have do it .
+at he ?
+& gt ; what up
+is , but do n't .
+get 'm you ?
+would ! ?
+& gt ; but and
+& gt ; you what you
+& gt ; in has
+& gt ; ) he .
+& gt ; ?
+his even do .
+what you !
+there at .
+& gt ; '' what ?
+out this because has so have like what
+we ! so
+& gt ; for have
+'' you you do .
+what i you do to .
+& gt ; for other
+then could ?
+. you they
+we do n't have they
+& gt ; you 're it it .
+& gt ; '' what
+& gt ; you on you
+this be it at & .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 06:55:34: Loss after num_examples_seen=500 epoch=5: 0.574640
+2017-08-31 06:57:13: Loss after num_examples_seen=600 epoch=6: 0.577584
+Setting learning rate to 0.000250
+2017-08-31 06:58:53: Loss after num_examples_seen=700 epoch=7: 0.544791
+2017-08-31 07:00:33: Loss after num_examples_seen=800 epoch=8: 0.540382
+2017-08-31 07:02:13: Loss after num_examples_seen=900 epoch=9: 0.536894
+
+2017-08-31T07:03:51.610520 (1000)
+Loss: 0.452632
+we have ? you
+i even do .
+what i do who ?
+and has do n't good , would ?
+& gt ; you what
+? '' it it .
+it n't than when
+& gt ; you are what
+you . have
+i think you do to .
+would you even
+and then n't have ?
+it ! to
+this there .
+& gt ; you 're you '' it .
+then he has about .
+& we gt then ?
+i what but do .
+they it what .
+but it it .
+i but you have as ?
+& gt ; but and
+and do like what .
+it it .
+do ( on
+& gt for you .
+& gt ; ? some
+we . have
+in it it .
+it 's about out one
+them are ?
+& gt ; is .
+& gt ; you 're there good
+what are n't .
+but . what
+in it it .
+the and , and are .
+it that ?
+i would but do .
+& gt ; when 're
+and . have
+about them , do no have it have so . 's
+it it .
+& gt ; you 're it '' .
+'' in it it .
+them is they
+& gt ; .
+& gt ; , you
+in this it it .
+them what like they
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 07:04:16: Loss after num_examples_seen=0 epoch=0: 0.530103
+2017-08-31 07:05:56: Loss after num_examples_seen=100 epoch=1: 0.676874
+Setting learning rate to 0.000500
+2017-08-31 07:07:36: Loss after num_examples_seen=200 epoch=2: 0.552664
+2017-08-31 07:09:16: Loss after num_examples_seen=300 epoch=3: 0.532904
+2017-08-31 07:10:57: Loss after num_examples_seen=400 epoch=4: 0.527641
+
+2017-08-31T07:12:36.313520 (500)
+Loss: 0.441312
+i . you
+then he ?
+if it it .
+but this it it .
+this at you even ? !
+what would would when
+i . n't has would when
+really , but do .
+have are is would ?
+it it .
+i people they do .
+it '' you them .
+i it it it .
+other on you of what ?
+& gt ; you on
+really , but do .
+& gt ; you 're and on do all ?
+i 'm in you to .
+has out n't .
+i would but do .
+& gt ; you what
+it 's people .
+i people you
+'' it you ?
+& gt ; you what
+like on what when
+and . have they
+like . people
+no . when
+did he has they
+. have they
+would . like
+& gt ; you what
+then he has if .
+we do n't . there all ?
+this , when they would on
+than for there it .
+people you been out ?
+& gt ; '' what they
+at he with you they
+& gt ; you good it .
+this was on when
+i & n't even
+and i it at people them when ?
+& gt ; as on
+what and really has .
+this 's but there it .
+i people you .
+would but do the make , who of what
+& gt ;
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 07:13:10: Loss after num_examples_seen=500 epoch=5: 0.516095
+2017-08-31 07:14:50: Loss after num_examples_seen=600 epoch=6: 0.516380
+Setting learning rate to 0.000250
+2017-08-31 07:16:30: Loss after num_examples_seen=700 epoch=7: 0.487705
+2017-08-31 07:18:11: Loss after num_examples_seen=800 epoch=8: 0.483453
+2017-08-31 07:19:52: Loss after num_examples_seen=900 epoch=9: 0.479223
+
+2017-08-31T07:21:30.266520 (1000)
+Loss: 0.411052
+it 's it it .
+it 's people like you with that & .
+& gt ; you all it .
+& gt ; this what you
+i . been they
+& gt ; you they then when
+is has n't even been that good it in when
+out all just it .
+i people you .
+& who ; !
+like you do , ?
+! good of on
+i . been
+and you it .
+& gt ; you .
+what would there then ?
+it he ?
+it 's it does .
+& gt ; '' what ?
+i think do to .
+then he has he
+really , but do .
+i it like you that
+then he ?
+would . they
+& gt ; you what
+really , but do the have there he when
+i 'm in do .
+) you ?
+would do n't do & it it .
+& gt ; .
+really , but do .
+they do n't .
+& gt ; even
+it it .
+'' . time
+who people do n't .
+i it , do n't know they
+would it you .
+it `` would ? would
+this , people they did
+& gt ; .
+& gt ; you what
+but it do .
+did he you
+they & n't what ?
+there 's some , and would
+& gt ; you what you they
+& gt ; you some i & have ?
+i people you .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 07:22:03: Loss after num_examples_seen=0 epoch=0: 0.475323
+2017-08-31 07:23:42: Loss after num_examples_seen=100 epoch=1: 0.531186
+Setting learning rate to 0.000500
+2017-08-31 07:25:23: Loss after num_examples_seen=200 epoch=2: 0.486036
+2017-08-31 07:27:03: Loss after num_examples_seen=300 epoch=3: 0.480071
+2017-08-31 07:28:43: Loss after num_examples_seen=400 epoch=4: 0.479550
+
+2017-08-31T07:30:21.437520 (500)
+Loss: 0.399570
+& gt ; you what
+then he has !
+& gt ; you but you even
+& gt ; you what
+would ! do 's . ''
+if it it .
+i of like have what in .
+there it .
+if it do .
+you you what do .
+& gt ; you out
+i . like they
+& gt ; you when
+& gt ; you .
+that they do .
+& gt ; .
+i them to do .
+he up out
+? '' what ?
+i . who
+has than ?
+& gt ; for than
+i . to you
+& gt ; you what
+& gt ; you .
+was , but do .
+would it does have but even
+, what do n't .
+would people when when
+for people do n't .
+this that has
+it it .
+they it there .
+it 's but but you ?
+for it be you in what this what
+it 's do n't ? but
+i think do to as there there .
+think . then
+it 's but there it .
+does them at have ?
+& gt ;
+in do my ?
+& gt ; you what
+& gt ;
+& gt ; on
+& gt ; you what
+? you ?
+& gt ; on i
+it it .
+i would would to do of ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 07:30:51: Loss after num_examples_seen=500 epoch=5: 0.470347
+2017-08-31 07:32:31: Loss after num_examples_seen=600 epoch=6: 0.471407
+Setting learning rate to 0.000250
+2017-08-31 07:34:12: Loss after num_examples_seen=700 epoch=7: 0.443152
+2017-08-31 07:35:52: Loss after num_examples_seen=800 epoch=8: 0.439885
+2017-08-31 07:37:33: Loss after num_examples_seen=900 epoch=9: 0.438637
+
+2017-08-31T07:39:11.772520 (1000)
+Loss: 0.376935
+does at to you would
+i on really when
+you them there .
+but it it .
+do n't . would
+& gt ; you what
+& gt ; you good it .
+there it .
+& gt ; you what
+& gt ; you what
+no on ?
+i 'm you what .
+i would but do .
+i think do to when
+what i like do to on
+people they do when
+it 's there & .
+& gt ; like what ?
+but it it it .
+i would in like when
+really , but do .
+it 's . when
+i who like to it & is of
+i even do .
+i ? you when
+in ? ''
+and if there it .
+& gt ; all what ?
+& gt ; for and
+& gt ; is .
+them then , them .
+and you it it .
+it it .
+they do n't . they
+i this they do .
+what i would do n't do it .
+they this it .
+& gt ; you this & who ? !
+this of it it .
+then know ?
+there it .
+& gt ; out has
+? '' ?
+as it when .
+no . has
+. i do 's .
+i people who when
+but it it it .
+at he has ?
+you would do he ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 07:39:41: Loss after num_examples_seen=0 epoch=0: 0.434844
+2017-08-31 07:41:22: Loss after num_examples_seen=100 epoch=1: 0.529547
+Setting learning rate to 0.000500
+2017-08-31 07:43:03: Loss after num_examples_seen=200 epoch=2: 0.442481
+2017-08-31 07:44:42: Loss after num_examples_seen=300 epoch=3: 0.432996
+2017-08-31 07:46:23: Loss after num_examples_seen=400 epoch=4: 0.434291
+Setting learning rate to 0.000250
+
+2017-08-31T07:48:00.250520 (500)
+Loss: 0.366649
+that it what
+it it .
+on there it .
+& gt ; is .
+& gt ; , do n't .
+they it it .
+but would do n't .
+is in when ?
+and i would have to
+they do n't .
+they do n't . no
+& gt ; .
+it it .
+and . would
+and you there it .
+what good '' it .
+at he has ?
+& gt ; !
+really , but do .
+'' they it it .
+& gt ; ?
+no , it to in
+i . than
+we as on
+this it .
+really , but then .
+how , but do & they them
+as do n't .
+& gt ; you he ?
+and them with all it .
+what people get out ?
+like do n't have if
+? then n't them .
+no : in people ?
+& gt ; ?
+but it it .
+& gt ; .
+& gt ; you what
+it `` people do n't .
+i you they do .
+and you when do .
+& gt ; ?
+& gt ; as you
+`` people do out gt .
+is , would do to them they
+you . have
+& gt ; you 're it it .
+it it .
+it it .
+would ? have
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 07:48:46: Loss after num_examples_seen=500 epoch=5: 0.416362
+2017-08-31 07:50:26: Loss after num_examples_seen=600 epoch=6: 0.413484
+2017-08-31 07:52:06: Loss after num_examples_seen=700 epoch=7: 0.410897
+2017-08-31 07:53:46: Loss after num_examples_seen=800 epoch=8: 0.408799
+2017-08-31 07:55:28: Loss after num_examples_seen=900 epoch=9: 0.407944
+
+2017-08-31T07:57:06.930520 (1000)
+Loss: 0.354874
+i people they do of
+& gt ; you ?
+'' you on
+but there to has they
+and you they do to .
+& gt ; .
+& gt ; for and
+. there in ?
+, & n't .
+i ? that when
+but this it .
+& gt ; you he ?
+at i you ?
+& gt ; you what
+it this .
+it them it .
+but it it .
+on they would you ?
+are he ?
+& gt ; that people
+if it it .
+& gt ; you when
+) you ?
+what i would do at .
+but it it .
+what i would do to ?
+this 's there there .
+i . but
+could . but
+& gt ; .
+and you at you ?
+but it it .
+& gt ; .
+no ! ?
+as & n't '' they
+they this it .
+then any know 're would like do to when they
+have are has like they
+you . even
+& gt ; but would
+but it it .
+them they you
+would would do 're on
+& gt ; ?
+because do like do .
+but it of do no has they
+have you it it .
+and you at what when
+is of it it .
+it it .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 07:57:38: Loss after num_examples_seen=0 epoch=0: 0.405427
+2017-08-31 07:59:18: Loss after num_examples_seen=100 epoch=1: 0.487870
+Setting learning rate to 0.000500
+2017-08-31 08:00:57: Loss after num_examples_seen=200 epoch=2: 0.420343
+2017-08-31 08:02:38: Loss after num_examples_seen=300 epoch=3: 0.412435
+2017-08-31 08:04:18: Loss after num_examples_seen=400 epoch=4: 0.411901
+
+2017-08-31T08:05:57.041520 (500)
+Loss: 0.353207
+it 's it it .
+so people do n't .
+& gt ; you they
+they this it it .
+& gt ; you what
+would they do n't .
+& gt ; is 're when
+i people they do .
+& gt ; you what
+it 's on they you you
+about he ?
+'' you ?
+& gt ; is what ?
+and you it do .
+& gt ; is what ?
+at he , .
+what i would did to .
+& gt ; .
+this that !
+it it .
+& gt ; you when
+and you they do .
+i on who ?
+it my it it .
+& gt ; ?
+& gt ; you what
+is has n't even like what ?
+in this it it .
+& gt ; you then .
+i 'm but do .
+& gt ; you what
+and them have ?
+i people what
+& gt ; you .
+up you what do .
+in good it .
+& gt ; you out they
+& gt ; to you there people ?
+i think what do more .
+of . ''
+them ! when
+did he when
+. good there .
+really , but do .
+just . people would
+at he ?
+that are do .
+for people do n't .
+so people do n't .
+& gt ; .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 08:06:36: Loss after num_examples_seen=500 epoch=5: 0.410391
+2017-08-31 08:08:17: Loss after num_examples_seen=600 epoch=6: 0.405393
+2017-08-31 08:09:57: Loss after num_examples_seen=700 epoch=7: 0.403038
+2017-08-31 08:11:37: Loss after num_examples_seen=800 epoch=8: 0.404855
+Setting learning rate to 0.000250
+2017-08-31 08:13:17: Loss after num_examples_seen=900 epoch=9: 0.383490
+
+2017-08-31T08:14:55.575520 (1000)
+Loss: 0.341575
+it 's there this .
+i in you .
+& gt ; .
+it 's it it .
+& gt ; is what ?
+and people ? when
+and you do it .
+& gt ;
+but it it .
+be . and
+there 's at make you
+if it it .
+it about !
+what . as
+you it but like they
+& gt ; is .
+that in do it .
+& gt ; you what ?
+some , people .
+you you like have .
+i 'm is have one of them .
+we do n't .
+there he ?
+that are do .
+you , like do to .
+& gt ; for has they
+i 'm like what to .
+& gt ; .
+you would what do to
+& gt ; you ?
+it then ?
+think . ''
+& gt ; you that
+he good can ?
+& gt ; .
+that are do .
+& gt ; ! has
+. you as
+is , and do all .
+this is are .
+they this it .
+& gt ; .
+& gt ; .
+but it it .
+and it out what
+& gt ; is .
+& gt ; .
+& gt ; but and
+it there .
+& gt ; you 're it it there .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 08:15:32: Loss after num_examples_seen=0 epoch=0: 0.383410
+2017-08-31 08:17:12: Loss after num_examples_seen=100 epoch=1: 0.416450
+Setting learning rate to 0.000500
+2017-08-31 08:18:52: Loss after num_examples_seen=200 epoch=2: 0.395805
+2017-08-31 08:20:31: Loss after num_examples_seen=300 epoch=3: 0.391469
+2017-08-31 08:22:11: Loss after num_examples_seen=400 epoch=4: 0.388616
+
+2017-08-31T08:23:49.876520 (500)
+Loss: 0.342556
+& gt ; .
+what i would do to be . you
+that has you it .
+i people they do .
+so people do n't .
+but do this has .
+have what when do when ?
+& gt ; you what
+it them .
+& gt ; .
+& gt ; ?
+it 's . there it .
+this is n't do n't has this them ?
+they do n't .
+did you but some it .
+& gt ; is what ?
+'' you ? they
+& gt ; .
+& gt ; .
+i do n't do when than
+it , it some ?
+has it at .
+at even when .
+i people '' .
+& gt ; you what
+and it then have them .
+i '' they do .
+is one ? do of
+& gt ; '' what they
+& gt ; you out
+& gt ; is what ?
+& gt ; .
+do n't . you
+& gt ; '' what
+you you what do to
+so people do n't .
+i even do .
+i ? would they
+& gt ; .
+they & n't .
+then he ? even .
+like . know
+& gt ; you he ?
+& gt ; .
+it it .
+was , and do it .
+& gt ; .
+do or have on been what '' what what would they
+you is `` when would
+would make do to .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 08:24:32: Loss after num_examples_seen=500 epoch=5: 0.388451
+2017-08-31 08:26:12: Loss after num_examples_seen=600 epoch=6: 0.390937
+Setting learning rate to 0.000250
+2017-08-31 08:27:52: Loss after num_examples_seen=700 epoch=7: 0.375162
+2017-08-31 08:29:31: Loss after num_examples_seen=800 epoch=8: 0.374091
+2017-08-31 08:31:11: Loss after num_examples_seen=900 epoch=9: 0.371043
+
+2017-08-31T08:32:50.232520 (1000)
+Loss: 0.326346
+& gt ; .
+in me it .
+is , but do .
+& gt ; .
+so this it have them .
+& gt ; '' what
+is , but do .
+then then has ?
+and you they do to .
+i people you .
+to people do n't .
+really , but do .
+do he ?
+& gt ; .
+but it it .
+but it it .
+them it .
+& gt ; on and
+it there .
+and . what
+then he has
+& gt ; .
+i people but do .
+but it it .
+& gt ; you what there out ?
+in me it .
+& gt ;
+& gt ; '' 're and ? when
+i them they do .
+! good all .
+& gt ; is .
+& gt ; .
+what for do then ?
+& gt ; you gt .
+i 'm like out .
+is , but do .
+no . !
+i even do .
+is , but do to them all .
+& gt ; you 're but some it .
+really , but do .
+this for it it .
+but it it .
+we , they do to .
+& gt ; .
+& gt ; of :
+& gt ; .
+& gt ; is .
+that that do to .
+when do n't .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 08:33:19: Loss after num_examples_seen=0 epoch=0: 0.369802
+2017-08-31 08:34:59: Loss after num_examples_seen=100 epoch=1: 0.428930
+Setting learning rate to 0.000500
+2017-08-31 08:36:40: Loss after num_examples_seen=200 epoch=2: 0.378148
+2017-08-31 08:38:20: Loss after num_examples_seen=300 epoch=3: 0.365369
+2017-08-31 08:40:01: Loss after num_examples_seen=400 epoch=4: 0.379594
+Setting learning rate to 0.000250
+
+2017-08-31T08:41:41.511520 (500)
+Loss: 0.321951
+but it it .
+no , and like .
+& gt ; .
+it it .
+they this it it .
+there what ?
+i they you do to them out .
+and . when
+then he has even .
+at he has them !
+in this it this .
+you that ? has
+do he has ?
+& gt ;
+& gt ; .
+would think do .
+we they do what ?
+at he has did .
+and have have ?
+& gt ; is .
+& gt ; you did ?
+. good it .
+then he has get in they do what .
+& gt ; .
+time it when
+we in have when
+and i would like to
+& gt ; .
+and SENTENCE_START it it .
+gt he ?
+what i you then to .
+& gt ; .
+is , but do .
+if it it .
+there there .
+. has to
+is ! ?
+& gt ; you what
+& gt ; .
+& gt ; .
+i but like do it .
+and you there this .
+& gt ; !
+is , but do .
+i but you they do
+been you in on if
+but it it .
+if it it it .
+about he ?
+people i would do them .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 08:42:28: Loss after num_examples_seen=500 epoch=5: 0.355175
+2017-08-31 08:44:08: Loss after num_examples_seen=600 epoch=6: 0.353011
+2017-08-31 08:45:48: Loss after num_examples_seen=700 epoch=7: 0.350981
+2017-08-31 08:47:30: Loss after num_examples_seen=800 epoch=8: 0.348593
+2017-08-31 08:49:11: Loss after num_examples_seen=900 epoch=9: 0.346957
+
+2017-08-31T08:50:48.678520 (1000)
+Loss: 0.308518
+& gt ; you all , have ?
+we do like .
+like you it of them .
+i even do .
+& gt ; you .
+that are do to .
+& gt ; you on
+but it it .
+& gt ; in they
+& gt ; you out
+& gt ; .
+& gt ; you 're them at there .
+if it it .
+do does at ? when
+& gt ; '' when
+was one about at it than .
+is it people that them it all ?
+& gt ; .
+do n't . you
+& gt ; .
+it there .
+time would have do to .
+and you it .
+did you what do the make .
+& gt ; you he ?
+? this even
+would you do be than ?
+this `` it also in
+& gt ; .
+& gt ; .
+if it it .
+& gt ; .
+they can do n't .
+is , but do .
+they & n't .
+would they do what .
+! good it .
+i even do .
+& gt ; .
+& gt ; you : you ? what they
+& gt ; you 're when do n't .
+then he !
+if it it .
+people i would do have ?
+what you what what .
+then he has .
+do know ?
+then he has !
+& gt ; .
+i some they do .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 08:51:33: Loss after num_examples_seen=0 epoch=0: 0.345082
+2017-08-31 08:53:13: Loss after num_examples_seen=100 epoch=1: 0.400771
+Setting learning rate to 0.000500
+2017-08-31 08:54:53: Loss after num_examples_seen=200 epoch=2: 0.356897
+2017-08-31 08:56:33: Loss after num_examples_seen=300 epoch=3: 0.350564
+2017-08-31 08:58:13: Loss after num_examples_seen=400 epoch=4: 0.355272
+Setting learning rate to 0.000250
+
+2017-08-31T08:59:51.671520 (500)
+Loss: 0.307705
+i did when do .
+is , but do of them on
+would it it it .
+& gt ; .
+& gt ; you .
+really , like do it .
+he on ?
+like you it .
+it n't it it .
+'' it what it on
+and what when when they
+and . for
+& gt ; .
+what i what do n't .
+& gt ; .
+if did it .
+like you it .
+but it it .
+. what when what
+like but but it it .
+& gt ; would they it when
+what and really when out they
+he been do ! when
+i even then have
+but it it .
+no has n't even good of
+& gt ; .
+& gt ; .
+like you it .
+to it they do .
+but it it .
+is , but do .
+i . have ?
+& gt ; all what ?
+i on like ?
+& gt ; .
+no & and they
+! of has
+i you they do .
+would it them it it .
+really , but do .
+i people they do when
+& gt ; .
+& gt ; .
+this my and do 's .
+& gt ; ?
+it it .
+but some it it .
+this do .
+what out ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 09:00:36: Loss after num_examples_seen=500 epoch=5: 0.330914
+2017-08-31 09:02:15: Loss after num_examples_seen=600 epoch=6: 0.330721
+2017-08-31 09:03:54: Loss after num_examples_seen=700 epoch=7: 0.330541
+2017-08-31 09:05:33: Loss after num_examples_seen=800 epoch=8: 0.329120
+2017-08-31 09:07:13: Loss after num_examples_seen=900 epoch=9: 0.328353
+
+2017-08-31T09:08:52.211520 (1000)
+Loss: 0.302521
+& gt ; .
+do n't .
+in would it it .
+& gt ; .
+this is it it .
+& gt ; .
+are it it .
+& gt ; is what ?
+'' you ?
+really , but do .
+what i would do it .
+it my you good .
+they . what
+they this it it .
+& gt ; is .
+and . what they
+`` even do .
+like you it .
+this i do .
+it it it .
+& gt ; .
+they them n't some , and so what ?
+. good it .
+) but do them when them .
+they this it .
+i . do .
+i out they do as
+`` do n't do .
+& gt ; .
+& gt ; .
+we but you ?
+they this it .
+is one '' it .
+for what do n't .
+they this it it .
+when i do think ?
+they this it .
+people so do n't . they
+& gt ; you what
+really , but do .
+and does at ?
+like you it it .
+. you they
+would but have
+) you what
+it is it do .
+i would but do .
+is , but do .
+then he has !
+& gt ; .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 09:09:49: Loss after num_examples_seen=0 epoch=0: 0.327009
+2017-08-31 09:11:29: Loss after num_examples_seen=100 epoch=1: 0.403866
+Setting learning rate to 0.000500
+2017-08-31 09:13:09: Loss after num_examples_seen=200 epoch=2: 0.339124
+2017-08-31 09:14:49: Loss after num_examples_seen=300 epoch=3: 0.339727
+Setting learning rate to 0.000250
+2017-08-31 09:16:30: Loss after num_examples_seen=400 epoch=4: 0.323564
+
+2017-08-31T09:18:08.322520 (500)
+Loss: 0.307134
+they this it .
+what but you ?
+we in good this .
+would it me what than
+& gt ; .
+you you do at & they .
+if it it .
+what good it do .
+is ! ?
+& gt ; .
+they know n't at n't . '' they
+i but you do i it .
+they this it .
+but it it it .
+is , but do .
+& gt ; .
+is one to do to .
+in you it gt .
+what and good in .
+i 'm you then it .
+but this it .
+if it it .
+this it has them .
+really , but do .
+would it it it .
+& gt ; .
+as . what
+& gt ; .
+& gt ; .
+they this it .
+& gt ; me what ?
+is out ?
+they but one they
+& gt ; you .
+this it .
+i would it have in
+it it at , on
+& gt ; .
+i but but do .
+& gt ; . did they
+with people that .
+would think do .
+it do like them .
+then he has ?
+is , but do .
+& gt ; ?
+if it it .
+there ! have
+about he ?
+& gt ; you this them ?
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 09:19:02: Loss after num_examples_seen=500 epoch=5: 0.323558
+2017-08-31 09:20:42: Loss after num_examples_seen=600 epoch=6: 0.322641
+2017-08-31 09:22:22: Loss after num_examples_seen=700 epoch=7: 0.322659
+Setting learning rate to 0.000125
+2017-08-31 09:24:02: Loss after num_examples_seen=800 epoch=8: 0.317278
+2017-08-31 09:25:44: Loss after num_examples_seen=900 epoch=9: 0.315319
+
+2017-08-31T09:27:21.376520 (1000)
+Loss: 0.299159
+it is it have what . 're
+n't & n't have have .
+i than like like ?
+& gt ; in and
+what so you ?
+& gt ; .
+& gt ; when good it .
+if it it .
+it good it .
+we and , do to at n't .
+& gt ; . they
+if it do .
+i would but do .
+& gt ; . we
+i . like when
+i people they do .
+but it it .
+we do n't .
+if it it .
+& gt ; .
+it '' like they have then even
+& gt ; .
+but it it .
+'re . you as
+i but but do .
+i on it have .
+really on ?
+is but it it .
+& gt ; . they
+what i would do out ?
+i people they do .
+they some it all .
+. you they
+they this do .
+that that do to .
+it that ?
+i as but do .
+? it it .
+really , but do .
+if it it .
+& gt ; ) 're
+they this it .
+i in like ?
+we 'm would do to them .
+if it it .
+& gt ; .
+& gt ; .
+it 's it it .
+& gt ;
+& gt ; but and
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 09:28:17: Loss after num_examples_seen=0 epoch=0: 0.314080
+2017-08-31 09:29:57: Loss after num_examples_seen=100 epoch=1: 0.365213
+Setting learning rate to 0.000500
+2017-08-31 09:31:37: Loss after num_examples_seen=200 epoch=2: 0.328825
+2017-08-31 09:33:16: Loss after num_examples_seen=300 epoch=3: 0.324079
+2017-08-31 09:34:56: Loss after num_examples_seen=400 epoch=4: 0.330712
+Setting learning rate to 0.000250
+
+2017-08-31T09:36:34.712520 (500)
+Loss: 0.304127
+) you ?
+& gt ; .
+this it it .
+i but like ?
+i . not when
+for it does .
+this is n't even good of
+& gt ; . what would
+& gt ; is do more ?
+& gt ; .
+& gt ; .
+& gt ; .
+we , you it .
+& gt ; you 're then on would
+know you ?
+it there them ?
+they this it .
+what i would do it .
+& gt ; you what ?
+then he has !
+i one in do .
+& gt ; ? !
+but it it .
+if it it .
+`` would there to !
+& gt ; ? !
+this it like them .
+& gt ; you what it on
+& gt ; .
+people i what do to them .
+people i would there to when
+& gt ; you 're but there me ?
+was , but do .
+is on ?
+& gt ; .
+& gt ; .
+about even gt
+are they it it .
+) you ?
+we would , people ?
+& gt ; you there have !
+would if do to .
+) you ?
+on good it .
+in are then
+is has ? they
+? this it .
+`` people good there .
+what out ?
+& gt ; is and '' good it & .
+Saved model parameters to GRU-2017-08-31-02-17-100-48-100.dat.
+
+
+2017-08-31 09:37:23: Loss after num_examples_seen=500 epoch=5: 0.317664
+2017-08-31 09:39:03: Loss after num_examples_seen=600 epoch=6: 0.317055
+2017-08-31 09:40:42: Loss after num_examples_seen=700 epoch=7: 0.316877
